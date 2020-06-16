@@ -1,7 +1,7 @@
 <package>
-	<id>com.aka.istec</id>
-	<name>ISTEC</name>
-    <version>2.2.6</version>
+	<id>jp.akusio.kernbypass007</id>
+	<name>KernBypass</name>
+	<version>0.0.7</version>
 	<compatibility>
 		<firmware>
 			<miniOS>9.0</miniOS>
