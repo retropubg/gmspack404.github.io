@@ -1,5 +1,5 @@
 <package>
-	<id>com.aka.paradeisos</id>
+	<id>com.aka.paradeisos-arm64e</id>
 	<name>Paradeisos-arm64e</name>
     <version>1.0.0</version>
 	<compatibility>
